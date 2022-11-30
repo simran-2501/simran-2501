@@ -2,7 +2,7 @@
 
 <hr>
 
-<img align="right" alt="GIF" height="200px" src="./bitmoji.gif" />
+<img align="right" alt="GIF" height="200px" src="./bitmoji.png" />
 My name's Simran Shrivastava, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am an web developer enhancing my skills using JavaScript. </br>
 
 - 🌱 I’m currently learning - React Native and JavaScript
