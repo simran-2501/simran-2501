@@ -45,13 +45,13 @@ My name's Simran Shrivastava, currently a third year student pursuing B.Tech fro
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanshrivastava&theme=dark&hide_langs_below=4&layout=compact'/>
 <br> -->
 <h2 align="center">Stats: </h2>
+
 <p align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=simran-2501&bg_color=0d1017&color=00ff00&point=11b819&area=true&line=00ff00&hide_border=true" alt="Contribution graph" />
+  <img align="center" width="420" src="https://github-readme-activity-graph.cyclic.app/graph?username=simran-2501&theme=chartreuse-dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=simran-2501&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=simran-2501&theme=dark" alt="Stats" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=simran-2501&color=blue)
+   <img align="center" src="https://komarev.com/ghpvc/?username=simran-2501&color=blue" />
 
   
 
