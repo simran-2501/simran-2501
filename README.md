@@ -8,7 +8,7 @@ My name's Simran Shrivastava, currently a third year student pursuing B.Tech fro
 - 🌱 I’m currently learning - React Native and JavaScript
 - 👯 I’m looking to collaborate on - Development or Open source projects
 - 💬 Ask me about - Python, C/C++,HTML, CSS, JavaScript
-- 😄 Pronouns: She/They
+- 😄 Pronouns: She/Her
 - 📫 Let's Connect: <br>
 
   <a href="https://github.com/simran-2501" target="_blank">
