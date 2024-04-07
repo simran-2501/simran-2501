@@ -3,7 +3,7 @@
 <hr>
 
 <img align="right" alt="GIF" height="300px" src="./bitmoji.png" />
-My name's Simran Shrivastava, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. Currently, I am an web developer enhancing my skills using JavaScript. </br>
+Welcome to my slice of GitHub! I'm currently navigating my fourth year at SRM Institute of Science and Technology, where I'm immersed in the dynamic world of Computer Science. Here's a little bit about me and what I'm passionate about: </br>
 
 - 🌱 I’m currently learning - React Native and JavaScript
 - 👯 I’m looking to collaborate on - Development or Open source projects
